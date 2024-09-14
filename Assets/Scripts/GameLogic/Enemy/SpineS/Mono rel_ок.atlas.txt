@@ -1,0 +1,153 @@
+
+Mono rel_ок.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monopolist/L leg  2
+  rotate: false
+  xy: 323, 98
+  size: 125, 127
+  orig: 172, 320
+  offset: 0, 58
+  index: -1
+Monopolist/L leg 1
+  rotate: false
+  xy: 2, 11
+  size: 178, 206
+  orig: 178, 321
+  offset: 0, 115
+  index: -1
+Monopolist/L legs  3
+  rotate: true
+  xy: 450, 133
+  size: 94, 145
+  orig: 181, 321
+  offset: 0, 0
+  index: -1
+Monopolist/Lshoes
+  rotate: false
+  xy: 381, 229
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+Monopolist/R legs  2
+  rotate: false
+  xy: 553, 405
+  size: 79, 95
+  orig: 129, 301
+  offset: 35, 57
+  index: -1
+Monopolist/R legs  3
+  rotate: false
+  xy: 470, 379
+  size: 81, 121
+  orig: 131, 302
+  offset: 33, 0
+  index: -1
+Monopolist/Rarm
+  rotate: true
+  xy: 558, 315
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+Monopolist/Rforearm
+  rotate: true
+  xy: 444, 303
+  size: 53, 112
+  orig: 54, 112
+  offset: 1, 0
+  index: -1
+Monopolist/Rlegs  1
+  rotate: false
+  xy: 182, 14
+  size: 139, 203
+  orig: 139, 302
+  offset: 0, 96
+  index: -1
+Monopolist/Rshirt
+  rotate: false
+  xy: 497, 108
+  size: 36, 23
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Monopolist/Rshoes
+  rotate: false
+  xy: 553, 362
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+Monopolist/Rshoulder
+  rotate: true
+  xy: 480, 21
+  size: 84, 143
+  orig: 87, 145
+  offset: 3, 0
+  index: -1
+Monopolist/arm
+  rotate: true
+  xy: 485, 239
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+Monopolist/assM1
+  rotate: true
+  xy: 225, 290
+  size: 210, 102
+  orig: 210, 102
+  offset: 0, 0
+  index: -1
+Monopolist/forearm
+  rotate: true
+  xy: 329, 291
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+Monopolist/glasses
+  rotate: true
+  xy: 225, 227
+  size: 61, 154
+  orig: 61, 154
+  offset: 0, 0
+  index: -1
+Monopolist/headM1
+  rotate: true
+  xy: 329, 358
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1
+Monopolist/jacet
+  rotate: false
+  xy: 2, 219
+  size: 221, 281
+  orig: 235, 281
+  offset: 0, 0
+  index: -1
+Monopolist/shadows glasses
+  rotate: false
+  xy: 634, 408
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+Monopolist/shirt
+  rotate: false
+  xy: 450, 107
+  size: 45, 24
+  orig: 46, 24
+  offset: 1, 0
+  index: -1
+Monopolist/shoulder
+  rotate: true
+  xy: 323, 2
+  size: 94, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1

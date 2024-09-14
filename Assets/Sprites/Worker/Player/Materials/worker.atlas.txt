@@ -1,0 +1,188 @@
+
+worker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+worker_body
+  rotate: true
+  xy: 307, 44
+  size: 151, 266
+  orig: 151, 267
+  offset: 0, 1
+  index: -1
+worker_body_mask
+  rotate: true
+  xy: 654, 404
+  size: 53, 54
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+worker_eye_left
+  rotate: false
+  xy: 251, 158
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+worker_eye_right
+  rotate: false
+  xy: 238, 159
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+worker_forearm_left
+  rotate: true
+  xy: 608, 256
+  size: 55, 172
+  orig: 55, 172
+  offset: 0, 0
+  index: -1
+worker_forearm_right
+  rotate: false
+  xy: 575, 91
+  size: 103, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1
+worker_forearm_right_2
+  rotate: false
+  xy: 2, 157
+  size: 222, 352
+  orig: 222, 352
+  offset: 0, 0
+  index: -1
+worker_hair1
+  rotate: false
+  xy: 245, 174
+  size: 18, 21
+  orig: 19, 21
+  offset: 1, 0
+  index: -1
+worker_hair2
+  rotate: false
+  xy: 286, 182
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+worker_hair3
+  rotate: false
+  xy: 226, 172
+  size: 17, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+worker_hair4
+  rotate: false
+  xy: 265, 176
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+worker_hair5
+  rotate: true
+  xy: 269, 157
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+worker_hair6
+  rotate: false
+  xy: 226, 157
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+worker_hammer
+  rotate: false
+  xy: 568, 360
+  size: 84, 149
+  orig: 84, 149
+  offset: 0, 0
+  index: -1
+worker_hammer_glow
+  rotate: false
+  xy: 398, 309
+  size: 168, 200
+  orig: 168, 200
+  offset: 0, 0
+  index: -1
+worker_hammer_shine
+  rotate: false
+  xy: 568, 313
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+worker_hand_right
+  rotate: true
+  xy: 307, 3
+  size: 39, 52
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+worker_hand_right_2
+  rotate: false
+  xy: 226, 197
+  size: 170, 312
+  orig: 170, 312
+  offset: 0, 0
+  index: -1
+worker_head
+  rotate: false
+  xy: 752, 122
+  size: 69, 132
+  orig: 69, 132
+  offset: 0, 0
+  index: -1
+worker_leg_left
+  rotate: true
+  xy: 398, 208
+  size: 99, 208
+  orig: 99, 208
+  offset: 0, 0
+  index: -1
+worker_leg_right
+  rotate: true
+  xy: 575, 23
+  size: 66, 175
+  orig: 66, 175
+  offset: 0, 0
+  index: -1
+worker_shadow
+  rotate: false
+  xy: 2, 2
+  size: 303, 153
+  orig: 303, 153
+  offset: 0, 0
+  index: -1
+worker_shoe_left
+  rotate: true
+  xy: 654, 459
+  size: 50, 125
+  orig: 50, 125
+  offset: 0, 0
+  index: -1
+worker_shoe_right
+  rotate: false
+  xy: 752, 20
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+worker_shoulder_left
+  rotate: false
+  xy: 680, 123
+  size: 70, 131
+  orig: 70, 134
+  offset: 0, 3
+  index: -1
+worker_shoulder_right
+  rotate: true
+  xy: 782, 441
+  size: 68, 117
+  orig: 72, 117
+  offset: 4, 0
+  index: -1
